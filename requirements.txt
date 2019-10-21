@@ -29,7 +29,7 @@ semantic-version==2.5.0
 serial==0.0.67
 six==1.11.0
 termcolor==1.1.0
-Twisted==18.7.0
+Twisted==19.7.0
 urllib3==1.22
 virtualenv==16.0.0
 zope.interface==4.5.0
